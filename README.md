@@ -1,10 +1,10 @@
 # Brillianyt
 
-> 这里是我的开发者名片，自动汇总 GitHub 公开仓库数据。
+> 用简洁的方式记录我的开源活动与技术栈。
 
 GitHub：[@Brillianyt](https://github.com/Brillianyt)
 
-这里是我的开发者名片，自动汇总 GitHub 公开仓库数据。
+用简洁的方式记录我的开源活动与技术栈。
 
 ## 数据概览
 
